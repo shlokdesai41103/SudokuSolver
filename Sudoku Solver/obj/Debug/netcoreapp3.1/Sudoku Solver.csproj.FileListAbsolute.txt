@@ -1,0 +1,4 @@
+C:\Users\desai\Documents\Code\Sudoku Solver\obj\Debug\netcoreapp3.1\Sudoku Solver.csprojAssemblyReference.cache
+C:\Users\desai\Documents\Code\Sudoku Solver\obj\Debug\netcoreapp3.1\Sudoku Solver.AssemblyInfoInputs.cache
+C:\Users\desai\Documents\Code\Sudoku Solver\obj\Debug\netcoreapp3.1\Sudoku Solver.AssemblyInfo.cs
+C:\Users\desai\Documents\Code\Sudoku Solver\obj\Debug\netcoreapp3.1\Sudoku Solver.csproj.CoreCompileInputs.cache
