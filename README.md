@@ -1,2 +1,2 @@
 # Sudoku-Solver
- Sudoku Solving Algorithm Cereated in Java, Python and Kotlin.
+ Sudoku Solving Algorithm Created in Java, Python and Kotlin.
